@@ -1,0 +1,1 @@
+[28-Jul-2020 13:37:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nkrumah2_db'@'box5924.bluehost.com' (using password: YES) in /home2/nkrumah2/public_html/smarttax/include/dbconnection.php on line 8
